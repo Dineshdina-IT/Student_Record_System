@@ -9,3 +9,7 @@
 ..client >> cd client
 ..client >> npm install
 ..client >> npm start
+
+# output
+🚀 client running at http://localhost:3000
+
